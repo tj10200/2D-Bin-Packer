@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\menu_btn_highlight.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>391</X_OFFSET>
+	<Y_OFFSET>127</Y_OFFSET>
+	<WIDTH>96</WIDTH>
+	<HEIGHT>30</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_battle_normal.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>391</X_OFFSET>
+	<Y_OFFSET>64</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_battle_focus.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>391</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_design_focus.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>427</X_OFFSET>
+	<Y_OFFSET>160</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\menu_btn_press.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>364</X_OFFSET>
+	<Y_OFFSET>223</Y_OFFSET>
+	<WIDTH>96</WIDTH>
+	<HEIGHT>30</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_battle_pressed.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>364</X_OFFSET>
+	<Y_OFFSET>160</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_empty.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>418</X_OFFSET>
+	<Y_OFFSET>270</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_design_pressed.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>355</X_OFFSET>
+	<Y_OFFSET>270</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_design_normal.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>292</X_OFFSET>
+	<Y_OFFSET>270</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_starmap_pressed.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>316</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_starmap_normal.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>253</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_starmap_focus.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>190</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_science_pressed.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>127</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_science_normal.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>64</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\btn_science_focus.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>377</Y_OFFSET>
+	<WIDTH>61</WIDTH>
+	<HEIGHT>61</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\middle.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>270</Y_OFFSET>
+	<WIDTH>289</WIDTH>
+	<HEIGHT>105</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\right.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>160</Y_OFFSET>
+	<WIDTH>361</WIDTH>
+	<HEIGHT>108</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\main_panel\left.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin0.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>388</WIDTH>
+	<HEIGHT>157</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\control_panel\up-down_arrow.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin1.png</IMG_DEST>
+	<X_OFFSET>428</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>21</WIDTH>
+	<HEIGHT>50</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\control_panel\jaw.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin1.png</IMG_DEST>
+	<X_OFFSET>215</X_OFFSET>
+	<Y_OFFSET>243</Y_OFFSET>
+	<WIDTH>210</WIDTH>
+	<HEIGHT>29</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\control_panel\down.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin1.png</IMG_DEST>
+	<X_OFFSET>215</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>211</WIDTH>
+	<HEIGHT>240</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\control_panel\up.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin1.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>212</WIDTH>
+	<HEIGHT>928</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\right.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>449</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>6</WIDTH>
+	<HEIGHT>64</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>443</X_OFFSET>
+	<Y_OFFSET>67</Y_OFFSET>
+	<WIDTH>64</WIDTH>
+	<HEIGHT>5</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\left.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>443</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>4</WIDTH>
+	<HEIGHT>64</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\right_top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>341</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>100</WIDTH>
+	<HEIGHT>97</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>245</X_OFFSET>
+	<Y_OFFSET>100</Y_OFFSET>
+	<WIDTH>128</WIDTH>
+	<HEIGHT>6</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\left_top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>245</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>94</WIDTH>
+	<HEIGHT>97</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\right_bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>145</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>98</WIDTH>
+	<HEIGHT>105</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\left_bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>44</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>99</WIDTH>
+	<HEIGHT>105</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\skoba_rt.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>31</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>11</WIDTH>
+	<HEIGHT>148</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\skoba_rm.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>23</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>6</WIDTH>
+	<HEIGHT>149</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\skoba_lt.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>9</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>12</WIDTH>
+	<HEIGHT>149</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\starmap\ramka\skoba_lm.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin2.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>6</WIDTH>
+	<HEIGHT>149</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>422</X_OFFSET>
+	<Y_OFFSET>7</Y_OFFSET>
+	<WIDTH>64</WIDTH>
+	<HEIGHT>4</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>422</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>64</WIDTH>
+	<HEIGHT>4</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\left_bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>407</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>66</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\right.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>392</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>67</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\left.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>377</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>75</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\left_top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>362</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>98</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\right_top.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>347</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>106</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\right_bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>402</X_OFFSET>
+	<Y_OFFSET>239</Y_OFFSET>
+	<WIDTH>13</WIDTH>
+	<HEIGHT>66</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\razdel.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>217</X_OFFSET>
+	<Y_OFFSET>239</Y_OFFSET>
+	<WIDTH>183</WIDTH>
+	<HEIGHT>111</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\info_panel\middle.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>217</X_OFFSET>
+	<Y_OFFSET>195</Y_OFFSET>
+	<WIDTH>214</WIDTH>
+	<HEIGHT>42</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\info_panel\bottom.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>217</X_OFFSET>
+	<Y_OFFSET>131</Y_OFFSET>
+	<WIDTH>214</WIDTH>
+	<HEIGHT>62</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\small_pnl\fill.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>217</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>128</WIDTH>
+	<HEIGHT>128</HEIGHT>
+</TEXTURE>
+<TEXTURE>
+	<IMG_SRC>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\data\info_panel\top27.png</IMG_SRC>
+	<IMG_DEST>C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\bins\Bin3.png</IMG_DEST>
+	<X_OFFSET>1</X_OFFSET>
+	<Y_OFFSET>1</Y_OFFSET>
+	<WIDTH>214</WIDTH>
+	<HEIGHT>370</HEIGHT>
+</TEXTURE>

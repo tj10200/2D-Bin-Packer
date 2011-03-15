@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="_test">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.suo">
+</Property><Property Name="Date" Value="Tuesday, February 01, 2011">
+</Property><Property Name="Time" Value="11:23 AM">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="_test.sln" Description="Error creating backup file: C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="_test.suo" Description="File successfully backed up as C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.suo.old">
+</Event><Event ErrorLevel="0" Project="_test" Source="_test.vcproj" Description="Converting project file 'C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="_test" Source="_test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="_test" Source="_test.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="_test" Source="_test.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="_test" Source="_test.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\tjjoh01\Desktop\OPENIL TUT\Bin Packer\_test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="_test" Source="_test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="_test.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="_test.sln" Description="Converted">
+</Event></UpgradeLog>
